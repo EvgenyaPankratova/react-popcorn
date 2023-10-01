@@ -1,0 +1,19 @@
+
+.header{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(133,116,245,1) 100%);
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 1rem 2rem;
+font-weight: bold;
+}
+
+.header_logo{
+    font-size: 28px;
+}
+
+.header_count{
+    font-size: 18px;
+    font-weight: normal;
+}

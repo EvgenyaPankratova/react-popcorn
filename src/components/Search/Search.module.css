@@ -1,0 +1,15 @@
+
+.search_input{
+    border-radius: 0.5rem;
+    border: none;
+    padding: 0.5rem 1rem;
+    width: 25rem;
+    font-weight: lighter;
+    background: rgb(246,219,241);
+background: radial-gradient(circle, rgba(246,219,241,0.5495448179271709) 56%, rgba(238,174,202,0.5439425770308124) 100%);
+color: white;
+}
+
+.search_input:focus{
+    outline: none;
+}

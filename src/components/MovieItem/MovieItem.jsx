@@ -1,3 +1,4 @@
+import styles from "./MovieItem.module.css";
 
 const MovieItem = () => {
     return <div className="movie">
