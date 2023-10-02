@@ -1,0 +1,9 @@
+
+.movies_list{
+    background: rgba(128, 128, 128, 0.185);
+    border-radius: 1rem;
+    height: auto;
+    width: 35%;
+    margin-right: 2rem;
+    min-height: 60vh;
+}

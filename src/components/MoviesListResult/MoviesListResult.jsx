@@ -1,8 +1,9 @@
 import styles from "./MoviesListResult.module.css";
+import MovieItem from '../MovieItem/MovieItem.jsx';
 
-const MoviesListResult = () => {
-    return <div className="movies_list">
-
+const MoviesListResult = ({allMovies}) => {
+    return <div className={styles.movies_list}>
+        <MovieItem allMovies={allMovies}/>
     </div>
 }
 

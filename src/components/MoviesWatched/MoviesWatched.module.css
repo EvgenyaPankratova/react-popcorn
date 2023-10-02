@@ -1,0 +1,22 @@
+
+.movies_watched{
+    background: rgba(128, 128, 128, 0.185);
+    border-radius: 1rem;
+    height: auto;
+    width: 35%;
+    min-height: 60vh;
+}
+
+.movies_watched_title{
+    padding: 1rem;
+}
+
+.movies_watched_info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.movies_watched_info span{
+    display: inline-block;
+
+}
